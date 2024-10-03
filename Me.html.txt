@@ -55,7 +55,7 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
+        <h1>Derrick Assiedu</h1>
         <p>College Student | Tech Enthusiast | Aspiring Software Engineer</p>
     </header>
 
